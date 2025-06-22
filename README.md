@@ -55,7 +55,7 @@ It’s the final course in the [IBM Data Engineering Professional Certificate](h
 
 | Tool | Preview |
 |------|---------|
-| Google Looker Studio | ![Looker Dashboard](./Dashboard%20Creation%20using%20Google%20Looker%20Studio/E-commerce_Sales_Dashboard_(2020).pdf) |
+| Google Looker Studio | ![Looker Dashboard](https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone/blob/f15ccc8cdb74cdff37bccee5fd4de3a3ac5a82ba/Data%20Engineering%20Capstone%20Project/Labs/Dashboard%20Creation%20using%20Google%20Looker%20Studio/Screenshots/E-Commerce_Sales_Dashboard_(2020).pdf)) |
 | IBM Cognos Analytics | ![Cognos Dashboard](./Dashboard%20Creation%20using%20IBM%20Cognos%20Analytics/E-commerce%20Sales%20Dashboard.jpg) |
 
 ---
