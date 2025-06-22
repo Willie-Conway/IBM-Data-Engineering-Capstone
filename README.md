@@ -176,7 +176,6 @@ This project was a culmination of weeks of learning and hands-on practice. I str
 If you're interested in my other data projects or collaborations:  
 🌐 [My Portfolio](#) | 💼 [LinkedIn](#) | 📂 [GitHub Projects](#)
 
-```
 
 
 
