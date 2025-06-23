@@ -3,7 +3,7 @@
 
 <p float="left">
     <img src="https://images.credly.com/size/340x340/images/9ba24fc4-6d91-4840-91f9-5f03b3e32ac1/image.png" width="300" />
-    <img src="https://postimg.cc/K3vkNRdw" width="300" />
+    <img src="https://i.postimg.cc/d3G2JCns/Looker-Studio.jpg" width="300" />
 </p>
 
 This capstone project showcases the practical application of key data engineering skills by simulating a real-world scenario in which I served as a Junior Data Engineer. I designed and implemented a scalable data analytics platform by working across various technologies in the data engineering lifecycle.
