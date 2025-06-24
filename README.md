@@ -147,13 +147,6 @@ This project helped solidify my knowledge of:
 
 ---
 
-## 📜 Certificate
-
-📄 *Earned the official IBM Capstone Certificate upon completion!*  
-🔗 *[Add certificate link or badge here]*
-
----
-
 ## 🧠 Reflections
 
 This project was a culmination of weeks of learning and hands-on practice. I strengthened my data engineering foundations and became confident in building real-world data solutions end-to-end. 🧩💡
