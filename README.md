@@ -180,8 +180,9 @@ This project was a culmination of weeks of learning and hands-on practice. I str
 ## 🔗 Looker Dashboards
 
 - [Loyalty & Sales Performance Dashboard](https://lookerstudio.google.com/s/igUfnRY4S6M)
-- [MongoDB NoSQL Data Exploration](#)
-- [Apache Spark ML Prediction Models](#)
+- [E-Commerce_Sales_Dashboard_(2020)](https://lookerstudio.google.com/s/nBv_zBtawc4)
+- [Simple_Dashboard](https://lookerstudio.google.com/s/lz8wjFuj5Nw)
+- [Community_Property_Revenue_&_Loyalty_Sales_Dashboard](https://lookerstudio.google.com/s/ielt85KR3Sw)
 
 ---
 
