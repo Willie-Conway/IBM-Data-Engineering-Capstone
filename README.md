@@ -177,9 +177,9 @@ This project was a culmination of weeks of learning and hands-on practice. I str
 
 ---
 
-## 🔗 Related Projects
+## 🔗 Looker Dashboards
 
-- [ETL Pipeline Automation using Airflow](#)
+- [Loyalty & Sales Performance Dashboard](https://lookerstudio.google.com/s/igUfnRY4S6M)
 - [MongoDB NoSQL Data Exploration](#)
 - [Apache Spark ML Prediction Models](#)
 
