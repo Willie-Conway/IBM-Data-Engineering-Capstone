@@ -17,19 +17,19 @@ This capstone project simulates the role of a **Junior Data Engineer** tasked wi
 It’s the final course in the [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer), combining all prior learning into one practical project.
 
 <p float="left">
-    <img src="https://i.postimg.cc/vHnWGxhx/Simple-Dashboard-1.jpg" width="300" />
-    <img src="https://i.postimg.cc/HxKSjJNc/Simple-Dashboard-2.jpg" width="300" />
-    <img src="https://i.postimg.cc/zf27Pb8t/Simple-Dashboard-3.jpg" width="300" />
-    <img src="https://i.postimg.cc/nzQ4R3dr/Simple-Dashboard-4.jpg" width="300" />
-    <img src="https://i.postimg.cc/rpDxsh2j/Simple-Dashboard-5.jpg" width="300" />
-    <img src="https://i.postimg.cc/kGq2Qszk/Simple-Dashboard-6.jpg" width="300" />
-    <img src="https://i.postimg.cc/7h9fm7yb/Simple-Dashboard-7.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-1.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-2.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-3.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-4.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-5.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-6.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-7.jpg" width="300" />
 </p>
 
 <p float="left">
-    <img src="https://i.postimg.cc/s2dHVR5s/Loyalty-Sales-Performance-Dashboard.jpg" width="300" />
-    <img src="https://i.postimg.cc/YCg8DyZV/Community-Property-Revenue-Loyalty-Sales-Dashboard-1.jpg" width="300" />
-    <img src="https://i.postimg.cc/0N0nPK80/Community-Property-Revenue-Loyalty-Sales-Dashboard-2.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Loyalty_%26_Sales_Performance_Dashboard.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Community_Property_Revenue_%26_Loyalty_Sales_Dashboard-1.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Community_Property_Revenue_%26_Loyalty_Sales_Dashboard-2.jpg" width="300" />
 </p>
 
 ---
