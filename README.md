@@ -16,6 +16,12 @@ This capstone project showcases the practical application of key data engineerin
 This capstone project simulates the role of a **Junior Data Engineer** tasked with designing and implementing an end-to-end **data analytics platform** using multiple data engineering tools and technologies.  
 It’s the final course in the [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer), combining all prior learning into one practical project.
 
+<p float="left">
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/701d0ec34bd41f7aedcac7acf99bbc328540f653/Data%20Engineering%20Capstone%20Project/Labs/Getting%20Started%20with%20Google%20Looker%20Studio/Screenshots/Loyalty_%26_Sales_Performance_Dashboard.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/701d0ec34bd41f7aedcac7acf99bbc328540f653/Data%20Engineering%20Capstone%20Project/Labs/Creating%20and%20Configuring%20Visualizations%20in%20Reports%20with%20Google%20Looker%20Studio/Screenshots/Simple_Dashboard.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/701d0ec34bd41f7aedcac7acf99bbc328540f653/Data%20Engineering%20Capstone%20Project/Labs/Advanced%20charts%20in%20Looker%20Studio/Screenshots/Community_Property_Revenue_%26_Loyalty_Sales_Dashboard.pdf" width="300" />
+</p>
+
 ---
 
 ## 🧠 What I Learned
